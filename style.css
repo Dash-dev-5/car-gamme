@@ -35,6 +35,10 @@ header{
         top: 0;
     
 }
+.k{
+    display: flex;
+    flex-direction: row;
+}
 nav{
  
 
